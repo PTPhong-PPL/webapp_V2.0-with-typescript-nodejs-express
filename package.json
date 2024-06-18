@@ -1,0 +1,13 @@
+{
+  "name": "webapp_v2.0-with-typescript-nodejs-express",
+  "version": "1.0.0",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Phong",
+  "license": "ISC",
+  "description": ""
+}
